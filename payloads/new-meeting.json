@@ -1,0 +1,9 @@
+{
+  "meeting_id": "zoom-sample-0001",
+  "account": "Acme Supplies",
+  "contact": "Priya Rao",
+  "rep": "Daksh",
+  "team": "Enterprise",
+  "source_url": "REPLACE_WITH_A_REAL_RECORDING_OR_TRANSCRIPT_URL",
+  "transcript": "Daksh: Thanks for hopping on, Priya. Priya: Of course — we're keen to get the rollout moving. We still need to confirm budget sign-off internally before Friday, and honestly our CFO flagged a competitor's quote as cheaper, so that's something to address. Daksh: Understood, I'll get you an updated proposal today that speaks to that. Let's plan to reconnect Monday the 24th once you've got the sign-off. Priya: Sounds good, talk then."
+}
