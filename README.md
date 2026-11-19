@@ -2,7 +2,7 @@
 
 [![Tests](https://github.com/dakshvanshaj/RecapRelay/actions/workflows/test.yml/badge.svg)](https://github.com/dakshvanshaj/RecapRelay/actions/workflows/test.yml)
 
-Never let a call's follow-ups fall through — AI reads the meeting transcript, logs the recap and action items in
+Never let a call's follow-ups fall through. AI reads the meeting transcript, logs the recap and action items in
 your CRM, and tells the owner immediately.
 
 **Docs:** https://dakshvanshaj.com/recap-relay/
