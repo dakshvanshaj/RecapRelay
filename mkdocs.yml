@@ -1,6 +1,6 @@
 site_name: RecapRelay
 site_url: https://dakshvanshaj.com/recap-relay/
-repo_url: https://github.com/dakshvanshaj/recap-relay
+repo_url: https://github.com/dakshvanshaj/RecapRelay
 nav:
   - Overview: index.md
   - How it works: how-it-works.md
