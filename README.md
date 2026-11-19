@@ -3,7 +3,7 @@
 Never let a call's follow-ups fall through — AI reads the meeting transcript, logs the recap and action items in
 your CRM, and tells the owner immediately.
 
-**Docs:** https://dakshvanshaj.com/recap-relay/ (once deployed)
+**Docs:** https://dakshvanshaj.com/recap-relay/
 
 - [What it does and why](docs/index.md)
 - [How it works](docs/how-it-works.md): the flow, the flags, the weekly digest
